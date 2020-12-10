@@ -1,4 +1,3 @@
-folium==0.10.1
-xlrd==1.2.0
-openpyxl==3.0.3
+pandas==1.0.5
 pyshp==2.1.0
+folium==0.10.1
