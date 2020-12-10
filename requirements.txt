@@ -1,3 +1,4 @@
 pandas==1.0.5
 pyshp==2.1.0
 folium==0.10.1
+matplotlib==3.2.2
